@@ -19,7 +19,7 @@ Extract text from detected fields using OCR.
 Export extracted data to an Excel sheet.
 Installation
 Clone the repository:
-git clone https://github.com/jawadshahid07/Invoice-Data-Extraction-System.git
+git clone https://github.com/aryanjp1/Invoice-extraction-system-for-ML-assignment-2
 cd invoice-data-extraction
 Set up a Python virtual environment:
 python -m venv venv
